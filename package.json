@@ -1,0 +1,22 @@
+{
+  "name": "soda-homepage",
+  "version": "0.0.1",
+  "description": "enviroment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangSoda/SODA-HOMEPAGE.git"
+  },
+  "author": "wangsuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangSoda/SODA-HOMEPAGE/issues"
+  },
+  "homepage": "https://github.com/WangSoda/SODA-HOMEPAGE#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
